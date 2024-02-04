@@ -5,4 +5,9 @@ AN OUTPUT EXAMPLE IS SHOWN AS FOLLWING :
 ![Screenshot_2024-02-04_05_11_33](https://github.com/shankar219/PORT_SCANNER/assets/80420170/b82c9af4-4d14-490c-ba52-da8debcf30f3)
 
 
-INSTALLATION
+INSTALLATION (IN LINUX)
+$ sudo apt update
+$ sudo apt upgrade
+$ sudo apt install python3
+$ sudo apt install git 
+$ git clone https://github.com/shankar219/PORT_SCANNER.git 
