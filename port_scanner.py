@@ -1,4 +1,4 @@
-mport socket
+import socket
 import termcolor
 import threading
 import ipaddress
