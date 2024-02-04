@@ -6,8 +6,13 @@ AN OUTPUT EXAMPLE IS SHOWN AS FOLLWING :
 
 
 INSTALLATION (IN LINUX)
+
 $ sudo apt update
+
 $ sudo apt upgrade
+
 $ sudo apt install python3
+
 $ sudo apt install git 
+
 $ git clone https://github.com/shankar219/PORT_SCANNER.git 
