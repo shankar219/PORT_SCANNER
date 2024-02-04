@@ -1,10 +1,14 @@
 # PORT_SCANNER
+
+# DISCLAIMER 
+ we are not responsible for any illegal action performed by any reader. If you planned to use the content for illegal purpose, please leave this NOW...!!!!
+
 This is a basic python code essentially performs port scanning on the specified IP address using threading for concurrency. It attempts to connect to each port, and if successful, it prints the port number, associated service, and marks it as OPEN. The output is color-coded for better visibility.
-AN OUTPUT EXAMPLE IS SHOWN AS FOLLWING : 
-![Screenshot_2024-02-04_05_11_33](https://github.com/shankar219/PORT_SCANNER/assets/80420170/b82c9af4-4d14-490c-ba52-da8debcf30f3)
+# AN OUTPUT EXAMPLE IS SHOWN AS FOLLWING : 
+![Untitled](https://github.com/shankar219/PORT_SCANNER/assets/80420170/0f9d862f-8c97-4460-b74b-a3a38619f1b2)
 
 
-INSTALLATION (IN LINUX)
+# INSTALLATION (IN LINUX)
 
 $ sudo apt update
 
@@ -20,9 +24,11 @@ $ cd PORT_SCANNER
 
 $ python3 port_scanner.py
 
-![Screenshot_2024-02-04_05-23-10](https://github.com/shankar219/PORT_SCANNER/assets/80420170/0f08f54b-4e34-434f-b710-bea833265b23)
+![Untitled1](https://github.com/shankar219/PORT_SCANNER/assets/80420170/563c97a5-2ca7-481b-a7a3-9f4d622a62f3)
 
-EXPLANATION OF THE CODE : 
+
+
+# EXPLANATION OF THE CODE : 
 
 IMPORTS:
 
