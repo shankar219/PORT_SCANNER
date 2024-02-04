@@ -25,6 +25,7 @@ $ python3 port_scanner.py
 EXPLANATION OF THE CODE : 
 
 IMPORTS:
+
 socket: This module provides a low-level interface to networking operations.
 
 termcolor: This module is used for colored output in the console.
@@ -60,7 +61,6 @@ The program prints a table with information about each scanned port, including t
 EXCEPTION HANDLING:
 
 If there is any ValueError (e.g., invalid IP address) or KeyboardInterrupt (user interrupts the program), appropriate messages are displayed.
-Explanation for Exception:
 
 Closing Message:
 
